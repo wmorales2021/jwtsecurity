@@ -52,7 +52,7 @@ Se realiza consumo a través de postman metodo POST http://localhost:8080/login
 En esta ultima imagen, se observa que se realizó la autenticación correcta a la base de datos y se generó un token de autenticación de manera correcta.
 
 
-Verificación de base de datos 
+Verificación de base de datos. 
 Al acceder a la base de datos, se confirma que los registros fueron satisfactorios como lo muestra la siguiente imagen. 
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/65b76a44-310d-476c-a491-99fe0f935ce8)
 
