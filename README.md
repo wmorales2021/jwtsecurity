@@ -36,14 +36,14 @@ Se realiza navegación a traves de localhost,  http://localhost:8080/hello, en e
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/3fd2f73d-e169-4b2a-828e-245d815c81db)
 
 Se realiza navegación a través de  http://localhost:8080/login
-En este se muestra una de las propiedades de jwt para la seguridad y es el permitir o denegar navegación a sitios especificos.
+En este se muestra, una de las propiedades de jwt para la seguridad y es el permitir o denegar navegación a sitios especificos.
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/7c3a44d3-b34d-4461-b418-6843329dfd60)
 
 Consumo a través de postman metodo GET
 http://localhost:8080/hello
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/41c160d1-f6b7-4081-96a0-2abd10797f1f)
 
-Se realiza consumo a traves de postman metodo POST http://localhost:8080/login
+Se realiza consumo a través de postman metodo POST http://localhost:8080/login
 
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/2a803cd8-c260-40dd-a64f-df2ed8020623)
 
@@ -54,9 +54,11 @@ En esta ultima imagen, se observa que se realizó la autenticación correcta a l
 
 Verificación de base de datos 
 Al acceder a la base de datos, se confirma que los registros fueron satisfactorios como lo muestra la siguiente imagen. 
+![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/65b76a44-310d-476c-a491-99fe0f935ce8)
+
 
 Navegacion del sitio https://jwt.io/
-ingresamos al sitio https://jwt.io/, con el fin de verificar el token generado y revisar  que los datos enviados corresponan a los correctos, asi las cosas, al navegar y colocar el token generado,  muestra los datos de manera satisfacoria como se muestra a continuación:
+ingresamos al sitio https://jwt.io/, con el fin de verificar el token generado y revisar  que los datos enviados corresponan a los correctos, asi las cosas, al navegar y colocar el token generado,  muestra los datos de manera satisfacoria como se refleja a continuación:
 
 
 <img width="960" alt="image" src="https://github.com/wmorales2021/jwtsecurity/assets/79813722/d4547a91-5b2b-4cd6-8d5d-62bb8415857c">
@@ -66,8 +68,6 @@ ingresamos al sitio https://jwt.io/, con el fin de verificar el token generado y
 
 
 Evidencia cargue en GITHUB
-
-![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/65b76a44-310d-476c-a491-99fe0f935ce8)
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/278955c9-f38d-4dbd-9b7b-ea2d0c413e35)
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/c269c885-3a15-4a4d-b7fc-e23e10cf2e45)
 ![image](https://github.com/wmorales2021/jwtsecurity/assets/79813722/0c1954be-d36b-44c3-84cf-225dde970ccf)
